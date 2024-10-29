@@ -1,5 +1,7 @@
 # Validating the Active Time Theory Using Quantum Computers
 
+Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
+
 ## Abstract
 
 This paper presents a detailed technical analysis of a quantum simulation framework designed to investigate the Active Time Hypothesis (ATH). We provide comprehensive documentation of the simulation architecture, quantum circuit design, and analysis methodologies used to probe ATH's fundamental propositions about time's active nature. The implementation utilizes the BlueQubit quantum computing platform to create and analyze quantum states that could potentially validate or refute ATH's core principles. Through systematic analysis of the code structure and simulation results, we demonstrate how each component contributes to testing ATH's predictions about temporal dynamics. The results demonstrate strong temporal correlations and minimal falsification evidence, suggesting support for ATH's core propositions.
@@ -360,15 +362,20 @@ The simulation results suggest that ATH might provide a unifying framework that 
 - The generative faculty could provide a new framework for understanding quantum measurement and wave function collapse
 - Temporal correlations observed in the simulation suggest a more fundamental role for time in quantum phenomena
 
-
 ## 5. Conclusion
 
 The quantum simulation framework provides a robust platform for testing ATH predictions. The results demonstrate strong temporal correlations and minimal falsification evidence, suggesting support for ATH's core propositions. Future work should focus on expanding the parameter space and implementing more sophisticated analysis methods.
+
+## 6. Additional Simulation on Classical Hardware with Qiskit
+Given the high cost associated with extensive quantum computations on physical quantum computers, we also ran an enhanced version of the quantum simulation [2] on a classical CPU, leveraging Qiskit, an open-source quantum computing framework. This approach enabled us to explore additional parameters and refine the simulation without incurring significant expenses.
 
 ## References
 
 1. Abdelsamie, Maher, Redefining Gravity and Bridging Quantum Mechanics and Classical Physics: The Active Time Theory
  (March 12, 2024). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4762792
+2. Abdelsamie, M. (2024). Analysis of Active Time Hypothesis Validation Through Quantum Circuit Simulation
+ (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/ATH-Validation-quantum-Simulation.
+
 ---
 # Installation
 
