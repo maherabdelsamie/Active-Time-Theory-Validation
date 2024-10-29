@@ -196,6 +196,10 @@ ATH Validation:
 - Stability suggests robust theoretical framework
 - Minimal contradictory evidence found
 
+![2](https://github.com/user-attachments/assets/4fe5c62e-035c-4f79-9a07-b73f669969d8)
+![1](https://github.com/user-attachments/assets/77aeab13-2bf3-40b0-91b1-0be2322d95a3)
+
+
 ## 4. Discussion
 
 ### 4.1 Interpretation of Results
