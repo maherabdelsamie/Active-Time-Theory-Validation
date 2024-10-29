@@ -389,7 +389,6 @@ The simulation is implemented in Python and requires the following libraries:
 - `datetime`
 - `time`
 - `bluequbit` (for interfacing with the quantum computing platform)
-- seaborn
 
 To set up the environment, follow these steps:
 
