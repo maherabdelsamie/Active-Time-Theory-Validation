@@ -389,6 +389,7 @@ The simulation is implemented in Python and requires the following libraries:
 - `datetime`
 - `time`
 - `bluequbit` (for interfacing with the quantum computing platform)
+- seaborn
 
 To set up the environment, follow these steps:
 
@@ -403,7 +404,7 @@ To set up the environment, follow these steps:
    You can install the required libraries using `pip`. Run the following command in the root of the repository:
 
    ```bash
-   pip install numpy matplotlib qiskit scipy typing datetime time bluequbit
+   pip install numpy matplotlib qiskit scipy seaborn bluequbit
    ```
 
 3. **BlueQubit Authentication**:
